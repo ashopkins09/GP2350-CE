@@ -1,6 +1,6 @@
 # GP2040 Configuration for Raspberry Pi Pico2W
 
-![Pin Mapping](assets/PinMapping.png)
+![Pin Mapping](PinMapping.png)
 
 Basic pin setup for a **Raspberry Pi Pico2W (RP2350, 4MB, WiFi, onboard LED)**.  
 Pair with a GPIO breakout or screw terminal board for an easy DIY arcade stick or leverless controller using **GP2040-CE**.
